@@ -1,0 +1,7 @@
+opencv-python
+mediapipe
+pygame
+numpy
+
+
+# pip install -r requirements.txt
